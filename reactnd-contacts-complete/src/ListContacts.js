@@ -49,7 +49,7 @@ class ListContacts extends Component {
           <Link
             to='/create'
             className='add-contact'
-          >Add Contact</Link>
+          >Add Contact Info</Link>
         </div>
 
         {showingContacts.length !== contacts.length && (
